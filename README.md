@@ -1,6 +1,7 @@
 # Welcome to My World!
 
     <h1>Hello World !<h1>
+    <a href="https://app.daily.dev/ahmedezzt7"><img src="https://api.daily.dev/devcards/042360d10375415b934a4fde7e62f48e.png?r=q3h" width="400" alt="AhmedEzzt's Dev Card"/></a>
 Hi! I'm **Ahmed Ezzt Sabet**. I’m a developer with experience building websites and mobile Apps for small and medium-sized businesses. Whether you’re trying to win work, list your services, or even create a whole online store – I can help!
 
 - I’m experienced in HTML and CSS 3, Javascript, ReactJS, Redux, Recoil, Tailwind
