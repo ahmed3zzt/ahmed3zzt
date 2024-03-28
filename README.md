@@ -1,7 +1,7 @@
 # Welcome to My World!
 
     <h1>Hello World !<h1>
-<a href="https://app.daily.dev/ahmedezzt"><img src="https://api.daily.dev/devcards/f17e222de1974285bc36363e8029add4.png?r=jm8" width="400" alt="AhmedEzzt's Dev Card"/></a>
+<a href="https://app.daily.dev/ahmedezzt"><img src="https://api.daily.dev/devcards/v2/wHyIH6C6cNAa7ZcgyY0cZ.png?type=default&r=53u" width="356" alt="AhmedEzzt's Dev Card"/></a>
 <p>
     Hi! I'm **Ahmed Ezzt Sabet**. I’m a developer with experience building websites and mobile Apps for small and medium-sized businesses. Whether you’re trying to win work, list your services, or even create a whole online store – I can help!
 
